@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="google_maps_API_key">AIzaSyB0SwVat5MGgMv2hEZjOzdrQY0w8FD6Xok</string>
+
+
+    <string name="app_name">GoogleMapsGooglePlaces</string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+</resources>
